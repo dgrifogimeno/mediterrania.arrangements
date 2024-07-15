@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dgrifogimeno.github.io/sitemap-index.xml
